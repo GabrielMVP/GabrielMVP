@@ -7,7 +7,7 @@
 
 ![GabrielMVP GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMVP&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMVP&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMVP&layout=pie)](https://github.com/GabrielMVP/github-readme-stats)
 
 ## Tecnologias que eu uso em meus projetos
 
